@@ -24,7 +24,7 @@ Machine Learning Techniques
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Task 2: Car Selling Price Prediction**
+# **Task 2: Car Selling Price Prediction**
 
 Objective
 
